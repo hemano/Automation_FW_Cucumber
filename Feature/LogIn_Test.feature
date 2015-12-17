@@ -1,4 +1,4 @@
-Feature: Login Action
+Feature: Login Action from Panel
 
 Scenario: Successful Login with Valid Credentials
 	Given User is on Home Page
