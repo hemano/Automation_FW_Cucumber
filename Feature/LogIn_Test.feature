@@ -10,7 +10,7 @@ Scenario: Successful Login with Valid Credentials
 	
 Scenario: Successful LogOut
 	When User LogOut from the Application
-	Then Message displayed LogOut Successfully
+	Then User navigate to Login Page with title "Sign-on: Mercury Tours"
 	
 	
 	
